@@ -70,7 +70,7 @@ Explore the realm of data visualization in Python by utilizing powerful librarie
 
 ## Contributions
 
-Feel free to contribute to the game by opening issues or submitting pull requests.
+Feel free to contribute by opening issues or submitting pull requests.
 
 ## License
 
